@@ -1,0 +1,5 @@
+.backgroundImg {
+  width: 200;
+  height: 300;
+  object-fit: scale-down;
+}
